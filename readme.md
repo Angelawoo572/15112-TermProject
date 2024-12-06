@@ -29,6 +29,9 @@ put the file cmu_graphics under the same file with other .py files
 then u can successfully run
 run main.py
 
+Also: 
+"python3 -m pip install pillow" on the terminal. follow the instructions: https://edstem.org/us/courses/68479/discussion/5774683
+
 Shortcut Commands:
 Here is a list of the shortcut commands available in the game:
 Level Progression Commands:
