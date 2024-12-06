@@ -42,5 +42,5 @@ Notes
 Please ensure that all required files are in the same directory when running the game.
 The project leverages pathfinding algorithms and Huffman Tree decoding to create dynamic gameplay. Each level introduces a new set of mechanics and challenges, encouraging players to use algorithms creatively.
 
-All Files are included in https://github.com/Angelawoo572/15112-tp
+All Files are included in https://github.com/Angelawoo572/15112-TermProject
 including the files that are not in autolab
