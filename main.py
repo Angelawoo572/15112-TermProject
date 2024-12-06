@@ -32,7 +32,7 @@ def onAppStart(app):
 
     app.image_die = getCmuImage("IMG_2604.PNG") # citation: http://xhslink.com/a/PCQdSH05LYP0
 
-    app.bg1 = getCmuImage("WechatIMG4237 1.06.25 AM.jpg") # citation: http://xhslink.com/a/a2qAJVdoTYP0
+    app.bg1 = getCmuImage("WechatIMG4237.jpg") # citation: http://xhslink.com/a/a2qAJVdoTYP0
 
     app.message = "Welcome to the Tower of Cipher Breaking!"
 
