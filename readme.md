@@ -24,6 +24,9 @@ BFS.py
 main.py
 
 How to Run the Project:
+first install cmu_graphics from https://academy.cs.cmu.edu/desktop
+put the file cmu_graphics under the same file with other .py files
+then u can successfully run
 run main.py
 
 Shortcut Commands:
